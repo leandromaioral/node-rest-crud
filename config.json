@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host" : "localhost",
+    "port" : "27017",
+    "name" : "atividadecrud",
+    "mongoUrl" : "mongodb://localhost/atividadecrud"
+  }
+}
